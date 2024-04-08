@@ -36,7 +36,7 @@
      * LTS schedule: https://nodejs.org/en/about/releases/
      * LTS versions: https://nodejs.org/en/download/releases/
      */
-    "nodeSupportedVersionRange": ">= 18.18.0 <19.0.0 || >=20.0.0 <21.0.0",
+    "nodeSupportedVersionRange": ">=20.6.0 <21.0.0",
     /**
      * Odd-numbered major versions of Node.js are experimental.  Even-numbered releases
      * spend six months in a stabilization period before the first Long Term Support (LTS) version.
@@ -430,6 +430,14 @@
         {
             "packageName": "@yume-chan/eslint-config",
             "projectFolder": "toolchain/eslint-config"
+        },
+        {
+            "packageName": "@yume-chan/test-runner",
+            "projectFolder": "toolchain/test-runner"
+        },
+        {
+            "packageName": "@yume-chan/package-lint",
+            "projectFolder": "toolchain/package-lint"
         },
         {
             "packageName": "@yume-chan/pcm-player",

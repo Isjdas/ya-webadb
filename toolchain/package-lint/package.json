@@ -1,0 +1,17 @@
+{
+    "name": "@yume-chan/package-lint",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "dependencies": {
+        "@types/node": "^20.14.9",
+        "json5": "^2.2.3"
+    },
+    "author": "",
+    "license": "MIT"
+}
