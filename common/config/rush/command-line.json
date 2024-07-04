@@ -179,9 +179,9 @@
             "name": "test",
             "summary": "Run tests in each projects",
             "ignoreMissingScript": true,
-            "allowWarningsInSuccessfulBuild": true,
-            "enableParallelism": true,
-            "incremental": true,
+            "allowWarningsInSuccessfulBuild": false,
+            "enableParallelism": false,
+            "incremental": false,
             "safeForSimultaneousRushProcesses": true
         },
         {

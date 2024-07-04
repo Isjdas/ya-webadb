@@ -7,7 +7,7 @@ import { fileURLToPath } from "url";
 const child = spawn(
     process.execPath,
     [
-        // "--experimental-test-coverage",
+        "--experimental-test-coverage",
         "--import",
         import.meta.resolve("./import.js", import.meta.url),
         fileURLToPath(import.meta.resolve("./run-test.js", import.meta.url)),
