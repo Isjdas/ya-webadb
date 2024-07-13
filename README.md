@@ -50,3 +50,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to run and develop this project
 <a href="https://opencollective.com/ya-webadb/backer/8/website?requireActive=false" target="_blank"><img src="https://opencollective.com/ya-webadb/backer/8/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/ya-webadb/backer/9/website?requireActive=false" target="_blank"><img src="https://opencollective.com/ya-webadb/backer/9/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/ya-webadb/backer/10/website?requireActive=false" target="_blank"><img src="https://opencollective.com/ya-webadb/backer/10/avatar.svg?requireActive=false"></a>
+Active
